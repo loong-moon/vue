@@ -146,17 +146,22 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
         </a>
       </td>
       <td align="center" valign="middle">
+        <a href="https://www.valuecoders.com" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/valuecoders.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
         <a href="https://tidelift.com/subscription/npm/vue" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/tidelift.png">
         </a>
       </td>
+    </tr><tr></tr>
+    <tr>
       <td align="center" valign="middle">
         <a href="http://www.syncfusion.com/?utm_source=vuejs&utm_medium=list&utm_campaign=vuejsjslistcy19" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/syncfusion.png">
         </a>
       </td>
-    </tr><tr></tr>
-    <tr>
       <td align="center" valign="middle">
         <a href="https://opteo.com/vue" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/opteo.png">
@@ -168,18 +173,8 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://www.inkoop.in/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/inkoop.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
         <a href="https://www.firesticktricks.com/" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/firestick_tricks.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://github.com/marcus-hiles" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/marcus_hiles.png">
         </a>
       </td>
       <td align="center" valign="middle">
@@ -187,21 +182,41 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/intygrate.png">
         </a>
       </td>
-    </tr><tr></tr>
-    <tr>
       <td align="center" valign="middle">
         <a href="https://isleofcode.com/" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/isle_of_code.png">
         </a>
       </td>
-      <td align="center" valign="middle">
-        <a href="https://yakaz.com/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/yakaz.png">
-        </a>
-      </td>
+    </tr><tr></tr>
+    <tr>
       <td align="center" valign="middle">
         <a href="https://passionatepeople.io/" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/passionate_people.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://www.bestvpn.co/" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/bestvpn_co.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="http://en.shopware.com/" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/shopware_ag.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://x-team.com/join/?utm_source=vuejsorg&utm_medium=sponsor&utm_campaign=vuejsorg-patreon" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/x_team.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://www.vpnranks.com/" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vpnranks.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://www.simplyswitch.com/" target="_blank">
+          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/energy_comparison.png">
         </a>
       </td>
     </tr><tr></tr>
@@ -234,11 +249,6 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
       <td align="center" valign="middle">
         <a href="https://dopamine.bg/" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/dopamine.png">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://gridsome.org/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/gridsome.png">
         </a>
       </td>
     </tr><tr></tr>
@@ -319,15 +329,15 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 <h2 align="center">Generous Backers via Patreon ($50+)</h2>
 
 <!--50 start-->
-- Jamie K
 - Wasim Khamlichi
 - errorrik
 - Alex Balashov
 - Konstantin Levinski
 - Blaise Laflamme
-- Ernest Sim
 - Dilettant
 - Sean Ferguson
+- Johnny Ray Austin
+- IdealCoders
 <!--50 end-->
 
 <h2 align="center">Backers via Patreon</h2>
@@ -337,120 +347,113 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 - Shawn Wildermuth
 - Samuel Smith
 - donny
-- Jake Ingman
 - Simon East
-- kazupon
-- Lars Andreas Ness
-- Luca Borghini
-- Sean Washington
-- Benjamin Listwon
 - Keisuke Kita
+- kazupon
+- Sean Washington
+- Lars Andreas Ness
+- Benjamin Listwon
 - Kirk Lewis
-- Wen-Tien Chang
-- Victor Tolbert
 - Stephen Michael Hartley
+- Victor Tolbert
+- Wen-Tien Chang
 - Karol
 - Phan An
-- Miljan Aleksic
 - James J. Ye
 - Barbara Liau
 - Luiz
 - Matsumoto Takamasa
 - Jarek Tkaczyk
-- Duncan Kenzie
-- Mike Margerum
-- Guy Gavergun
-- Matt Jones
 - Niannian Modisette
-- Bernhard E. Reiter
-- Pierre Vanhulst
-- Zoran Knezevic
-- Chengzhi Yin
+- Matt Jones
+- Duncan Kenzie
+- Guy Gavergun
 - Shinya Katayama
+- Mike Margerum
+- Bernhard E. Reiter
+- Chengzhi Yin
+- Zoran Knezevic
 - Jon Hobbs-Smith
-- Anthony Estebe
-- Asaf Yishai
-- Haim Yulzari
+- Pierre Vanhulst
 - Akiho Nagao
+- Haim Yulzari
+- Asaf Yishai
+- Anthony Estebe
 - Jeremy Tan
 - Jim Raden
-- Tai Shi Ling
 - IMGNRY
+- Tai Shi Ling
 - Yong Jun Thong
-- Matias Verdier
-- Chih-Hsuan Fan
 - Tyler
-- Daniel Waghorn
 - Vivekanandhan Natarajan
+- Matias Verdier
 - Rafael Belvederese
-- Jamie McElwain
-- Cliff Hess
+- Chih-Hsuan Fan
+- Guilherme S L de Souza
+- Daniel Waghorn
 - Rob Yedlin
 - Mickaël Andrieu
-- Guilherme S L de Souza
+- Jamie McElwain
 - Jordan Oroshiba
+- Cliff Hess
 - Joe Gregory
-- Marcos Moura
-- RADD Creative
 - Richard Simpson
-- Alok Pant
+- Marcos Moura
 - Jessie Hernandez
 - Ivan Sieder
-- Aparajita Fishman
 - Eric
-- Christo Crampton
+- Aparajita Fishman
 - Romain Lienard
 - Bohdan Kokotko
-- Donald Fischer
-- Jere Sjöroos
+- Christo Crampton
 - David Ang
+- Donald Fischer
 - Alexander Weiher
 - Oskar Lindgren
-- Jaeyoung Lee
+- Jere Sjöroos
 - Wakana Seki
-- Ben Hong
-- John Cleveland
-- Tom Ootes
-- Domenico Gaudioso
 - David Kaplan
-- Amor
+- Ben Hong
+- Domenico Gaudioso
+- Jaeyoung Lee
 - Andy
-- Hannes Kochniß
-- Juan Bermudez
-- Daniel Mattingley
-- Matt Sencenbaugh
 - Joe Cochran
-- Chris Calo
+- Matt Sencenbaugh
+- Juan Bermudez
+- Hannes Kochniß
 - Colt Borg
-- Teon Ooi
 - Alberto T. Payero Mota
+- Daniel Mattingley
+- Teon Ooi
+- Chris Calo
 - Elon Hung
-- Milan Zivkovic
-- Johnny Ray Austin
-- Tom Meagher
 - Soichiro Isshiki
-- Abraham Arango
-- Marko Boskovic
-- Garion Herman
-- Ed Linklater
+- Milan Zivkovic
 - Christopher Bemister
+- Ed Linklater
+- Garion Herman
+- Marko Boskovic
+- Rob
 - Andrew Willis
-- Princeyesuraj Edward
 - Yusuke Kawabata
-- We
-- Carlos Adrián
-- Nick Dandakis
+- Princeyesuraj Edward
 - shimbaco
-- 极 蔡
 - 龙腾道
-- alcalbg
-- Kenneth Crawford
+- 极 蔡
 - Peter Matkovsky
+- Nick Dandakis
 - Fabien GuySake Ungerer
-- Kevin Batdorf
-- Masato Miura
 - Fedor Indutny
-- Juli A Schlack
+- Masato Miura
+- Nathan Mallison
+- Shapovalov Pavel
+- David McGuigan
+- Max Fletcher
+- Bill Condo
+- Kevin Batdorf
+- Ivan Buncic
+- Pierre Lebrun
+- Sheree Peña
 <!--10 end-->
 
 <h2 align="center">Backers via OpenCollective</h2>
